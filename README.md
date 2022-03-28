@@ -21,7 +21,7 @@ GraphQL, SOAP, REST API, WebSockets
 MySQL, PostgreSQL, MongoDB  
 ESLint ([Standard](https://standardjs.com) codestyle)  
 Git  
-basic Linux & DevOps   
+basic Linux & DevOps + OpSec
 bitmap & vector image editing  
 
 **Areas of interest:**
