@@ -8,8 +8,6 @@ ________
 https://user-images.githubusercontent.com/1358525/121644921-e7a0a400-ca93-11eb-91d3-3480aa2c3aa2.mp4
 
 **I’m good at problemsolving.**  
-Based in Czechia (willing to adjust schedule, willing to relocate/travel)  
-💜JavaScript, it’s so high-level you can just use it for almost literally anything.  
 Trying to do fullstack, definitely more experienced with frontend stuff.  
 
 ## Here's some of my keywords (marketable skills):
