@@ -15,7 +15,7 @@ Trying to do fullstack, definitely more experienced with frontend stuff.
 **Jamstack**, MEVN / MERN Stack  
 **HTML** ([PugJS](https://pugjs.org/), Handlebars), SVG  
 **CSS** ([Stylus](https://stylus-lang.com), [SASS](https://sass-lang.com)) - [Bootstrap](https://getbootstrap.com), [Semantic UI](https://semantic-ui.com), [TailwindCSS](https://tailwindcss.com), Flexbox  
-[✔](https://www.codingame.com/certification/-puCnxypDGuhn70zj2KZuw)**JavaScript(ES6+,** *novice with TypeScript.***)** [Vanilla JS](http://vanilla-js.com), [jQuery](https://jquery.com), [React](https://reactjs.org) (JSX, Redux), [Vue](https://vuejs.org) 2+ (Vuex/Pinia, Vue Router), [Node.js](https://nodejs.org/en/) (*Express, NestJS, TypeORM*), Next, Nuxt, Three.js, Canvas, moment.js  
+[✔certified](https://www.codingame.com/certification/-puCnxypDGuhn70zj2KZuw) **JavaScript** (**ES6+**, *novice with TypeScript.*) [Vanilla JS](http://vanilla-js.com), [jQuery](https://jquery.com), [React](https://reactjs.org) (JSX, Redux), [Vue](https://vuejs.org) 2+ (Vuex/Pinia, Vue Router), [Node.js](https://nodejs.org/en/) (*Express, NestJS, TypeORM*), Next, Nuxt, Three.js, Canvas, moment.js  
 JSON, XML, CSV, Markdown, some Regex  
 GraphQL, SOAP, REST API, WebSockets  
 MySQL, PostgreSQL, MongoDB  
@@ -25,4 +25,4 @@ basic Linux & DevOps + OpSec
 bitmap & vector image editing  
 
 **Areas of interest:**
-science & futurism, computer security, cryptography, p2p, cryptocurrency & financial markets, art, game design, UX/UI design, Harajaku fashion
+science & futurism, computer security, cryptography, p2p, cryptocurrency & financial markets, art, game design, UX/UI design, Internet culture, Harajaku fashion
