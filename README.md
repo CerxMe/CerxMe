@@ -12,7 +12,7 @@ ________
 	- machine learning
 	- graph theory
 	- generative art
-- finding exploits (bussiness)
+- finding exploits (business)
 - learning Rust programming
 	- WebAssembly
 
