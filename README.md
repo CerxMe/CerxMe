@@ -1,25 +1,24 @@
-[I know, you see](https://www.youtube.com/watch?v=HPM05dQgdig)  
+[bocchi the rock.webm](https://user-images.githubusercontent.com/1358525/232167810-92d2a537-a334-47f9-8b83-b3c47b3c2630.webm)
+
 ________
 # Currently obssesed with:
 - peer-to-peer protocols, decentralization, cryptography
 - astronomy & space
-- quantum information theory
-	- time crystals
-	- quantum pseudotelepathy
-	- post quantum encryption
+- quantum game theory
+- prompt-engineering
 - data visualization
 	- data science & analysis
 	- machine learning
-	- graph theory
-	- generative art
+	- graph interaction learing
+	- roadmap based flocking
 - finding exploits (business)
 - learning Rust programming
 	- WebAssembly
+- shitposting
 
 ___
 
-**Looking for projects!**  
-*try the birb to tweet at me.*
+**🔕 EMERGENCY QUERIES ONLY**
 
 ---
 ## Keywords (marketable skills):
