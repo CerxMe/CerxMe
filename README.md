@@ -12,7 +12,7 @@ ___
 **🔕 EMERGENCY QUERIES ONLY**
 
 ---
-## Keywords (preffered toolkit):
+## Keywords (prefferred toolkit):
 PWA - **Jamstack** / MEVN
 - **JavaScript** ([✔certified](https://www.codingame.com/certification/-puCnxypDGuhn70zj2KZuw), some TypeScript), [Vue](https://vuejs.org), Three.js
 - **HTML** (using [Pug](https://pugjs.org/)), semantic layout, basic legacy support and accesibility standards.
